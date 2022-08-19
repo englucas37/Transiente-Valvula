@@ -1,0 +1,18 @@
+[TRECHOS]
+;Comprimento(m)		Diametro(mm)		Espessura(mm)			M.Elast.(GPa)		Rugosidade(mm)		Coef.Poisson
+9.85			20			3.5				110			0.01			0.34
+9.50			20			3.5				110			0.01			0.34
+9.50			20			3.5				110			0.01			0.34
+9.50			20			3.5				110			0.01			0.34
+9.50			20			3.5				110			0.01			0.34
+2.15			20			3.5				110			0.01			0.34
+
+[DADOS VALVULA]
+
+;Vazão(m³/s)		0.000125
+;Em			2.056
+;tc(s)			0.05
+;Cd			0.7
+;DH(mca)		46
+;Divisões menor trecho	1
+;Tempo de simulação(s)	2
