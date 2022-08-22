@@ -21,3 +21,5 @@ Obs.1: do not change the blank spaces defined on "Entrada.txt"
 Obs.2: the bigger the divisions of the smaller branch and the simulation time, the bigger the processing time of the program
 
 The program uses the equations of Chaudhry(2014) - Applied Hydraulic transients for obtaining the results and these are recorded on a text file named "Resultado.txt" in three columns (time, pressure and flow rate), regarding the valve section
+
+The program has been developed with JDK version 8.211 and must be executed from Eclipse IDE
