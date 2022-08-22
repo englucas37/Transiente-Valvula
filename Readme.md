@@ -1,4 +1,4 @@
-PT/BR
+PT/BR:
 Programa desenvolvido para realizar o cálculo do transiente hidráulico devido ao fechamento de uma válvula em um sistema Reservatório de montante > Tubulação > Válvula de jusante
 
 O programa realiza a leitura de um arquivo de texto entitulado "Entrada.txt" (localizado em uma pasta com o endereço C:\transiente_valvula), conforme modelo disponibilizado
@@ -11,7 +11,7 @@ O programa realiza o processamento do cálculo a partir das equações de Chaudh
 
 O programa foi desenvolvido com a versão 8.211 da JDK e deve ser executado a partir da IDE Eclipe
 
-EN/US
+EN/US:
 Program developed for calculating hydraulic transients due to valve closure in a setup of Upstream Reservoir > Pipeline > Downstream valve.
 
 The program reads a text file named "Entrada.txt" (located on C:\transiente_valvula), according to the available model
