@@ -10,7 +10,7 @@ Obs.2: quanto maiores o número de divisões do menor trecho e o tempo de simula
 O programa realiza o processamento do cálculo a partir das equações de Chaudhry(2014) - Applied Hydraulic Transients - e grava os resultados em um arquivo de texto entitulado Resultado.txt em três colunas (tempo, pressão e vazão), referentes à seção da válvula
 
 O programa foi desenvolvido com a versão 8.211 da JDK e deve ser executado a partir da IDE Eclipe
-================================================================================================================================================
+
 EN/US
 Program developed for calculating hydraulic transients due to valve closure in a setup of Upstream Reservoir > Pipeline > Downstream valve.
 
